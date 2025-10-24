@@ -51,3 +51,4 @@
 
 </body>
 </html>
+<img src="images/my-photo.jpg" alt="A short description of the photo" width="500">
